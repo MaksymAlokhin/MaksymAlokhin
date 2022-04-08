@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maksym Alokhin from Ukraine
-- 👀 I’m interested in finding a remote job as a software engineer or participating in volunteer projects
+- 👀 I’m interested in participating in volunteer projects
 - 🌱 I’m currently learning programming at a university
-- 💞️ I’m looking to collaborate on projects written in C#, ASP.NET Core with SQL Server
+- 💞️ I’m looking for opportunities to collaborate on projects written in C#, ASP.NET Core with SQL Server, Angular
 - 📫 How to reach me: maksym.alokhin@protonmail.com
 
 <!---
