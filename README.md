@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Maksym Alokhin from Ukraine
-- 👀 I’m interested in volunteer projects
-- 🌱 I’m currently learning programming at a university
-- 💞️ I’m looking for opportunities to collaborate on projects written in C#, ASP.NET Core with SQL Server, Angular
+- 📃 I have master's degree in software engineering
+- 🍀 I’m currently working as a junior .NET software engineer
+- 👀 I’m looking for opportunities to collaborate on .NET and Angular projects
+- 💬 I can speak English, German, Polish
+- ✈️ Willing to relocate to Poland
+- 💞️ I’m interested in volunteer projects 
 - 📫 How to reach me: maksym.alokhin@protonmail.com
 
 <!---
