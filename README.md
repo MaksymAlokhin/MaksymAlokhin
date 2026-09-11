@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Maksym Alokhin from Ukraine
-- 📃 I have master's degree in software engineering
-- 🍀 I’m currently working as a junior .NET software engineer
-- 👀 I’m looking for opportunities to collaborate on .NET and Angular projects
-- 💬 I can speak English, German, Polish
-- ✈️ Willing to relocate to Poland
+- 👋 Hi, I’m a .NET software developer
+- 👀 I’m looking for opportunities to collaborate on .NET projects
+- 💬 I speak English, German, Polish
+- ✈️ Willing to relocate
 - 💞️ I’m interested in volunteer projects 
 - 📫 How to reach me: maksym.alokhin@protonmail.com
 
